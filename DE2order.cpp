@@ -29,7 +29,7 @@ int main()
 	return 0;
 }
 
-double F(double x, double y1, double y) //this functions returns the value of Y''
+double F(double x, double y1, double y) //this function returns the value of Y''
 {
 	return (3 * y + (x - 2)*y1) / ((x - 2)*(x - 2));
 }
