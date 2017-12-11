@@ -1,2 +1,3 @@
 # hello-world
-A hello-world repository
+
+Wazzup! Do we become a little smarter or a little less stupid?
