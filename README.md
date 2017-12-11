@@ -1,3 +1,3 @@
-# hello-world
+# math
 
-Wazzup! Do we become a little smarter or a little less stupid?
+Wazzup! This reposetory contains solved problems on numerical methods using mostly C++.
